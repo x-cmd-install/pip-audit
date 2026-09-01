@@ -1,0 +1,57 @@
+about:
+  description: Audits Python environments, requirements files and dependency trees for known security vulnerabilities, and can automatically fix them
+  license: Apache-2.0
+  homepage: https://pypi.org/project/pip-audit/
+  head: 243aa74
+  archived: false
+  latestVersion: v2.10.1
+  collectedAt: 2026-09-01T05:10:44Z
+timeline:
+  created: 2021-09-02
+  lastCommit: 2026-08-31
+  lastRelease: 2026-06-10
+popularity:
+  star: 1359
+  watcher: 27
+  fork: 126
+  release: 63
+  contributor: 102
+  pullRequest: 98
+  issue: 300
+language:
+  Python: 258147
+  Makefile: 2157
+totalLine: 260304
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 8
+    openPR: 1
+    closedIssue: 2
+    openIssue: 0
+    commit: 9
+  last90d:
+    since: 2026-06-03
+    release: 1
+    mergedPR: 26
+    openPR: 3
+    closedIssue: 5
+    openIssue: 0
+    commit: 32
+  last180d:
+    since: 2026-03-05
+    release: 1
+    mergedPR: 41
+    openPR: 5
+    closedIssue: 12
+    openIssue: 3
+    commit: 43
+  last360d:
+    since: 2025-09-06
+    release: 2
+    mergedPR: 82
+    openPR: 7
+    closedIssue: 16
+    openIssue: 6
+    commit: 86
