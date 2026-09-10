@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.10.1"
   latestRelease: "v2.10.1"
   latestPrerelease: "v0.0.1-rc.2"
-  collectedAt: 2026-09-10T05:13:00Z
+  collectedAt: 2026-09-10T20:43:26Z
 timeline:
   created: 2021-09-02
   lastCommit: 2026-09-09
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-06-10
   lastPrerelease: 2021-10-12
 popularity:
-  star: 1361
+  star: 1362
   watcher: 27
-  fork: 129
+  fork: 130
   release: 63
   contributor: 102
   pullRequest: 816
@@ -84,7 +84,7 @@ total:
   commit: 853
 ---
 path: /home/runner/.x-repo/github.com/pypa/pip-audit
-collectedAt: 2026-09-10T05:13:00Z
+collectedAt: 2026-09-10T20:43:27Z
 loc:
   Python:
     code: 5942
