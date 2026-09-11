@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.10.1"
   latestRelease: "v2.10.1"
   latestPrerelease: "v0.0.1-rc.2"
-  collectedAt: 2026-09-11T05:08:53Z
+  collectedAt: 2026-09-11T19:52:22Z
 timeline:
   created: 2021-09-02
   lastCommit: 2026-09-09
@@ -84,7 +84,7 @@ total:
   commit: 853
 ---
 path: /home/runner/.x-repo/github.com/pypa/pip-audit
-collectedAt: 2026-09-11T05:08:54Z
+collectedAt: 2026-09-11T19:52:27Z
 loc:
   Python:
     code: 5942
