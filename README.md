@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,366 · **Forks**: 135 · **Open issues**: 300 · **Contributors**: 102
+- **Stars**: 1,367 · **Forks**: 138 · **Open issues**: 300 · **Contributors**: 102
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 6 | 2 | 0 | 0 | 8 |
-| last60d | 2026-07-26 | 0 | 19 | 2 | 2 | 0 | 17 |
-| 90d | 2026-06-26 | 0 | 24 | 4 | 3 | 0 | 25 |
-| last180d | 2026-03-28 | 1 | 41 | 6 | 11 | 1 | 44 |
-| 360d | 2025-09-29 | 2 | 81 | 8 | 17 | 4 | 82 |
-| last720d | 2024-10-04 | 4 | 174 | 8 | 28 | 7 | 199 |
+| 30d | 2026-08-26 | 0 | 6 | 2 | 0 | 0 | 8 |
+| last60d | 2026-07-27 | 0 | 17 | 2 | 2 | 0 | 17 |
+| 90d | 2026-06-27 | 0 | 24 | 4 | 3 | 0 | 25 |
+| last180d | 2026-03-29 | 1 | 41 | 6 | 11 | 1 | 44 |
+| 360d | 2025-09-30 | 2 | 80 | 8 | 17 | 4 | 82 |
+| last720d | 2024-10-05 | 4 | 174 | 8 | 28 | 7 | 197 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for pip-audit lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:11:03Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:21:52Z._
