@@ -30,8 +30,8 @@ x install pip-audit
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## 源代码
 
@@ -56,12 +56,12 @@ x install pip-audit
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 2 | 1 | 0 | 0 | 2 |
-| last60d | 2026-08-11 | 0 | 10 | 1 | 2 | 0 | 12 |
-| 90d | 2026-07-12 | 0 | 24 | 2 | 3 | 0 | 25 |
-| last180d | 2026-04-13 | 1 | 40 | 4 | 10 | 1 | 42 |
-| 360d | 2025-10-15 | 2 | 77 | 6 | 17 | 2 | 80 |
-| last720d | 2024-10-20 | 4 | 168 | 7 | 27 | 7 | 191 |
+| 30d | 2026-09-11 | 0 | 2 | 1 | 0 | 0 | 2 |
+| last60d | 2026-08-12 | 0 | 9 | 1 | 2 | 0 | 11 |
+| 90d | 2026-07-13 | 0 | 24 | 2 | 2 | 0 | 25 |
+| last180d | 2026-04-14 | 1 | 40 | 4 | 10 | 1 | 39 |
+| 360d | 2025-10-16 | 2 | 77 | 6 | 17 | 2 | 78 |
+| last720d | 2024-10-21 | 4 | 168 | 7 | 27 | 7 | 191 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ pip-audit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261010.yml` · 2026-10-10T06:19:53Z._
+_数据快照: `data/card/261011.yml` · 2026-10-11T06:10:17Z._
