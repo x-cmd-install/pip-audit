@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.10.1` (2026-06-10)
-- **Last commit**: 2026-09-26
+- **Last commit**: 2026-10-25
 
 ## Popularity
 
-- **Stars**: 1,383 · **Forks**: 150 · **Open issues**: 300 · **Contributors**: 102
+- **Stars**: 1,383 · **Forks**: 151 · **Open issues**: 300 · **Contributors**: 102
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 718 · **Open PRs**: 13 · **Closed issues**: 248 · **Open issues**: 52 · **Commits**: 855
+- **Releases**: 63 · **Merged PRs**: 721 · **Open PRs**: 10 · **Closed issues**: 248 · **Open issues**: 52 · **Commits**: 858
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last60d | 2026-08-26 | 0 | 8 | 5 | 0 | 0 | 6 |
-| 90d | 2026-07-27 | 0 | 19 | 5 | 2 | 0 | 15 |
-| last180d | 2026-04-28 | 1 | 36 | 8 | 8 | 1 | 38 |
-| 360d | 2025-10-30 | 2 | 70 | 10 | 17 | 2 | 73 |
-| last720d | 2024-11-04 | 4 | 162 | 11 | 25 | 7 | 178 |
+| 30d | 2026-09-26 | 0 | 3 | 2 | 0 | 0 | 3 |
+| last60d | 2026-08-27 | 0 | 11 | 2 | 0 | 0 | 9 |
+| 90d | 2026-07-28 | 0 | 21 | 2 | 2 | 0 | 18 |
+| last180d | 2026-04-29 | 1 | 39 | 5 | 8 | 1 | 41 |
+| 360d | 2025-10-31 | 2 | 73 | 7 | 17 | 2 | 76 |
+| last720d | 2024-11-05 | 4 | 163 | 8 | 25 | 7 | 179 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for pip-audit lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:08:17Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:05:09Z._
