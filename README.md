@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 3 | 5 | 0 | 0 | 3 |
-| last60d | 2026-08-30 | 0 | 9 | 5 | 0 | 0 | 9 |
-| 90d | 2026-07-31 | 0 | 18 | 5 | 2 | 0 | 18 |
-| last180d | 2026-05-02 | 1 | 39 | 8 | 8 | 1 | 41 |
-| 360d | 2025-11-03 | 2 | 73 | 10 | 17 | 2 | 76 |
-| last720d | 2024-11-08 | 4 | 162 | 11 | 25 | 7 | 177 |
+| 30d | 2026-09-30 | 0 | 3 | 5 | 0 | 0 | 3 |
+| last60d | 2026-08-31 | 0 | 8 | 5 | 0 | 0 | 9 |
+| 90d | 2026-08-01 | 0 | 17 | 5 | 2 | 0 | 18 |
+| last180d | 2026-05-03 | 1 | 39 | 8 | 8 | 1 | 41 |
+| 360d | 2025-11-04 | 2 | 73 | 10 | 17 | 2 | 76 |
+| last720d | 2024-11-09 | 4 | 162 | 11 | 25 | 7 | 176 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for pip-audit lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:10:54Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:23:44Z._
