@@ -30,8 +30,8 @@ Overall score: **8.4 / 10**
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
 - **Security-Policy** (0/10) — security policy file not detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 7 | 2 | 0 | 0 | 7 |
-| last60d | 2026-09-01 | 0 | 12 | 2 | 0 | 0 | 13 |
-| 90d | 2026-08-02 | 0 | 21 | 2 | 2 | 0 | 22 |
-| last180d | 2026-05-04 | 1 | 43 | 5 | 8 | 1 | 45 |
-| 360d | 2025-11-05 | 2 | 77 | 7 | 17 | 2 | 80 |
-| last720d | 2024-11-10 | 4 | 166 | 8 | 25 | 7 | 180 |
+| 30d | 2026-10-02 | 0 | 7 | 2 | 0 | 0 | 7 |
+| last60d | 2026-09-02 | 0 | 11 | 2 | 0 | 0 | 12 |
+| 90d | 2026-08-03 | 0 | 21 | 2 | 2 | 0 | 21 |
+| last180d | 2026-05-05 | 1 | 43 | 5 | 8 | 1 | 45 |
+| 360d | 2025-11-06 | 2 | 77 | 7 | 17 | 2 | 80 |
+| last720d | 2024-11-11 | 4 | 165 | 8 | 24 | 7 | 180 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for pip-audit lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:14:38Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:30:29Z._
