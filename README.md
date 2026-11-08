@@ -30,8 +30,8 @@ Overall score: **8.4 / 10**
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,391 · **Forks**: 155 · **Open issues**: 300 · **Contributors**: 102
+- **Stars**: 1,390 · **Forks**: 154 · **Open issues**: 300 · **Contributors**: 102
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 7 | 2 | 0 | 0 | 7 |
-| last60d | 2026-09-08 | 0 | 9 | 2 | 0 | 0 | 12 |
-| 90d | 2026-08-09 | 0 | 19 | 2 | 2 | 0 | 21 |
-| last180d | 2026-05-11 | 1 | 42 | 5 | 8 | 1 | 45 |
-| 360d | 2025-11-12 | 2 | 76 | 7 | 17 | 2 | 80 |
-| last720d | 2024-11-17 | 4 | 164 | 8 | 24 | 7 | 177 |
+| 30d | 2026-10-09 | 0 | 7 | 2 | 0 | 0 | 7 |
+| last60d | 2026-09-09 | 0 | 9 | 2 | 0 | 0 | 12 |
+| 90d | 2026-08-10 | 0 | 18 | 2 | 2 | 0 | 21 |
+| last180d | 2026-05-12 | 1 | 42 | 5 | 8 | 1 | 45 |
+| 360d | 2025-11-13 | 2 | 76 | 7 | 17 | 2 | 80 |
+| last720d | 2024-11-18 | 4 | 164 | 8 | 24 | 7 | 177 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for pip-audit lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:23:56Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:28:32Z._

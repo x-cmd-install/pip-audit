@@ -30,8 +30,8 @@ x install pip-audit
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## 源代码
 
@@ -46,7 +46,7 @@ x install pip-audit
 
 ## 流行度
 
-- **Star**: 1,391 · **Fork**: 155 · **开放 issue**: 300 · **贡献者**: 102
+- **Star**: 1,390 · **Fork**: 154 · **开放 issue**: 300 · **贡献者**: 102
 
 ## 累计统计
 
@@ -56,12 +56,12 @@ x install pip-audit
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 7 | 2 | 0 | 0 | 7 |
-| last60d | 2026-09-08 | 0 | 9 | 2 | 0 | 0 | 12 |
-| 90d | 2026-08-09 | 0 | 19 | 2 | 2 | 0 | 21 |
-| last180d | 2026-05-11 | 1 | 42 | 5 | 8 | 1 | 45 |
-| 360d | 2025-11-12 | 2 | 76 | 7 | 17 | 2 | 80 |
-| last720d | 2024-11-17 | 4 | 164 | 8 | 24 | 7 | 177 |
+| 30d | 2026-10-09 | 0 | 7 | 2 | 0 | 0 | 7 |
+| last60d | 2026-09-09 | 0 | 9 | 2 | 0 | 0 | 12 |
+| 90d | 2026-08-10 | 0 | 18 | 2 | 2 | 0 | 21 |
+| last180d | 2026-05-12 | 1 | 42 | 5 | 8 | 1 | 45 |
+| 360d | 2025-11-13 | 2 | 76 | 7 | 17 | 2 | 80 |
+| last720d | 2024-11-18 | 4 | 164 | 8 | 24 | 7 | 177 |
 
 ## 发行版状态
 
@@ -81,4 +81,4 @@ pip-audit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261107.yml` · 2026-11-07T06:23:56Z._
+_数据快照: `data/card/261108.yml` · 2026-11-08T06:28:32Z._
