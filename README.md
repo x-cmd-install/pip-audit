@@ -46,31 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,412 · **Forks**: 169 · **Open issues**: 301 · **Contributors**: 102
+- **Stars**: 1,414 · **Forks**: 169 · **Open issues**: 303 · **Contributors**: 102
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 729 · **Open PRs**: 7 · **Closed issues**: 248 · **Open issues**: 53 · **Commits**: 866
+- **Releases**: 63 · **Merged PRs**: 729 · **Open PRs**: 7 · **Closed issues**: 248 · **Open issues**: 55 · **Commits**: 866
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 6 | 1 | 0 | 1 | 8 |
-| last60d | 2026-09-25 | 0 | 11 | 1 | 0 | 1 | 11 |
-| 90d | 2026-08-26 | 0 | 19 | 1 | 0 | 1 | 19 |
-| last180d | 2026-05-28 | 1 | 44 | 1 | 5 | 1 | 49 |
-| 360d | 2025-11-29 | 2 | 73 | 4 | 15 | 3 | 75 |
-| last720d | 2024-12-04 | 4 | 166 | 5 | 24 | 8 | 179 |
-
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/pip-audit). **2** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.10.1` | ✅ latest |
-| Nix unstable | `2.10.1` | ✅ latest |
+| 30d | 2026-10-26 | 0 | 6 | 1 | 0 | 3 | 8 |
+| last60d | 2026-09-26 | 0 | 11 | 1 | 0 | 3 | 11 |
+| 90d | 2026-08-27 | 0 | 19 | 1 | 0 | 3 | 19 |
+| last180d | 2026-05-29 | 1 | 44 | 1 | 5 | 3 | 49 |
+| 360d | 2025-11-30 | 2 | 73 | 4 | 15 | 5 | 75 |
+| last720d | 2024-12-05 | 4 | 165 | 5 | 24 | 10 | 179 |
 
 ## Improve this data
 
@@ -81,4 +72,4 @@ Install metadata for pip-audit lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:20:40Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:48:17Z._
