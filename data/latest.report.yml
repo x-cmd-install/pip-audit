@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.10.1"
   latestRelease: "v2.10.1"
   latestPrerelease: "v0.0.1-rc.2"
-  collectedAt: 2026-11-27T08:57:41Z
+  collectedAt: 2026-11-28T08:54:09Z
 timeline:
   created: 2021-09-02
   lastCommit: 2026-11-19
@@ -20,7 +20,7 @@ popularity:
   fork: 174
   release: 63
   contributor: 102
-  pullRequest: 845
+  pullRequest: 846
   issue: 304
 language:
   Python: 258147
@@ -28,7 +28,7 @@ language:
 totalBytes: 260304
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 3
     openPR: 3
@@ -36,7 +36,7 @@ recent:
     openIssue: 2
     commit: 8
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 11
     openPR: 3
@@ -44,23 +44,23 @@ recent:
     openIssue: 2
     commit: 11
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
-    mergedPR: 18
+    mergedPR: 17
     openPR: 3
     closedIssue: 2
     openIssue: 2
     commit: 19
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 1
-    mergedPR: 44
+    mergedPR: 43
     openPR: 3
     closedIssue: 7
     openIssue: 2
     commit: 49
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 1
     mergedPR: 73
     openPR: 6
@@ -68,11 +68,11 @@ recent:
     openIssue: 4
     commit: 75
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 4
     mergedPR: 165
     openPR: 7
-    closedIssue: 26
+    closedIssue: 25
     openIssue: 9
     commit: 178
 total:
@@ -84,7 +84,7 @@ total:
   commit: 866
 ---
 path: /home/runner/.x-repo/github.com/pypa/pip-audit
-collectedAt: 2026-11-27T08:57:42Z
+collectedAt: 2026-11-28T08:54:10Z
 loc:
   Python:
     code: 5942
